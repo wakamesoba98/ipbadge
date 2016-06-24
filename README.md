@@ -9,17 +9,8 @@ IPv4/v6 badge output script
 
 # Requirements
 
-- php
+- php (>= 5.3)
 - php-fpm
-- php-gd
-
-# Setup
-
-Edit your `php.ini`.
-
-```ini
-extension=gd.so
-```
 
 # Usage
 
